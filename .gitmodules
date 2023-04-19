@@ -1,0 +1,3 @@
+[submodule "packages/back-cushy"]
+	path = packages/back-cushy
+	url = https://github.com/jingeon27/back-cushy.git
