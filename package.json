@@ -1,7 +1,8 @@
 {
   "name": "ganp",
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "apps/*"
   ],
   "repository": "https://github.com/jingeon27/ganp.git",
   "packageManager": "yarn@3.5.0",
